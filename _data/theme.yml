@@ -85,7 +85,7 @@ search-child-objects: true # true / false - if true, child objects will appear o
 navbar-color: .nav-header-inner .v-toolbar__content { background-color: "#2b2b2b"; } .v-application .black { background-color: "#2b2b2b" !important; }
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: .nav-header-inner .v-toolbar__content { background-color: "#718676"; } .v-application .black { background-color: "#718676" !important; }
+navbar-background:$navbar-default: if(variable-exists(theme), if(variable-exists(primary), $primary, "#718676"), "#718676");
 
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
