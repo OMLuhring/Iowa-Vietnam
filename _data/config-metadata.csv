@@ -7,7 +7,7 @@ contributor, Contributor
 description, Description,
 people-featured, People Featured,
 date,Date Created,
-date-is-approximate, Approximated date?
+date-is-approximate?, Approximated date?
 location,Location
 latitude,Latitude
 longitude,Longitude
