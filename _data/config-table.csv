@@ -1,23 +1,23 @@
 field,display_name
-title,Title,
-filename, File Name,
-creator,Creator,
-publisher, Publisher,
+title,Title
+filename, File Name
+creator,Creator
+publisher, Publisher
 contributor, Contributor
-description, Description,
-people-featured, People Featured,
-date,Date Created,
+description, Description
+people-featured, People Featured
+date,Date Created
 date-is-approximate, Approximated date?
 location,Location
 latitude,Latitude
 longitude,Longitude
-subject,Subjects,true
+subject,Subjects
 language, Language
 format,Format
-file-size,File Size,
-dimensions,Dimensions,
-pages,Pages,
-length,Length,
-identifier,Source Identifier,
-rights,Rights,
-rightsstatement,Rights Statement,
+file-size,File Size
+dimensions,Dimensions
+pages,Pages
+length,Length
+identifier,Source Identifier
+rights,Rights
+rightsstatement,Rights Statement
