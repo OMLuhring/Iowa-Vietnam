@@ -4,7 +4,7 @@ filename, File Name,
 creator,Creator,
 publisher, Publisher,
 contributor, Contributor
-description, Description,true,
+description, Description
 people-featured, People Featured,
 date,Date Created,
 date-is-approximate?, Approximated date?
