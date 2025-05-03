@@ -5,6 +5,7 @@ creator,Creator
 publisher, Publisher
 contributor, Contributor
 description, Description
+descriptionlink, Further Reading,,true
 people-featured, People Featured
 date,Date Created
 date-is-approximate?, Approximated date?
