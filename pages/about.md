@@ -11,5 +11,5 @@ credits: true
 
 ## About the Collection
 
-This website was created as part of a Final Metadata Assignment for the class Information Organization at the University of Iowa's SLIS (School of Library & Information Science) and completed by Olivia Luhring.
+This website was created as part of a Final Metadata Assignment by Olivia Luhring for the class Information Organization at the University of Iowa's SLIS (School of Library & Information Science) program.
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
